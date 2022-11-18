@@ -15,4 +15,4 @@ Também é possível definir quando os métodos observadores estarão habilitado
 ## Aplicação:
 <a href="https://github.com/GabrielCosta-Abap/ES2-Final-Observer/tree/main/Com%20observer">./Com Observer/</a>. → Exemplo de uma aplicação simples usando o padrão observer no evento keyup da tag input. Chamando métodos para realizar a atualização das tags P da página.
 
-<a href="https://github.com/GabrielCosta-Abap/ES2-Final-Observer/tree/main/Sem%20observer"> → Desenvolvimento da mesma solução supracitada, porém sem utilizar o padrão Observer para comparar a diferença.
+<a href="https://github.com/GabrielCosta-Abap/ES2-Final-Observer/tree/main/Sem%20observer">./Sem Observer/</a>.  → Desenvolvimento da mesma solução supracitada, porém sem utilizar o padrão Observer para comparar a diferença.
