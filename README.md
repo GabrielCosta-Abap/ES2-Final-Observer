@@ -2,6 +2,6 @@
 Trabalho acadêmico sobre o Design Pattern Observer.
 
 ## Contribuidores:
-<img alt="Profile Img" src="https://github.com/GabrielCosta-Abap/ES2-Final-Observer/blob/main/github.com/GabrielCosta-Abap"></img>
-<img alt="Profile Img" src="https://github.com/GabrielCosta-Abap/ES2-Final-Observer/blob/main/github.com/GabrielCosta-Abap"></img>
-<img alt="Profile Img" src="https://github.com/GabrielCosta-Abap/ES2-Final-Observer/blob/main/github.com/GabrielCosta-Abap"></img>
+<img src="https://github.com/GabrielCosta-Abap.png" width="45" height="45" style="max-width: 100%;">
+
+## 
