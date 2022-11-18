@@ -13,6 +13,6 @@ O padrão Observer é um dos mais utilizados na Web. Ele te possibilita criar tr
 Também é possível definir quando os métodos observadores estarão habilitados ou desabilitados dinamicamente. Com o padrão observer fica muito mais fácil trabalhar com eventos, pois trata-se de uma classe que fará o handle das ações durante cada trigger. O mesmo observer pode ser utilizado em diversos eventos, assim como apartir da mesma classe é possível criar diversos observers diferentes para cada evento. O que torna tudo mais prático e manutenível. 
 
 ## Aplicação:
-./Com Observer/ → Exemplo de uma aplicação simples usando o padrão observer no evento keyup da tag input. Chamando métodos para realizar a atualização das tags P da página.
+<a href="https://github.com/GabrielCosta-Abap/ES2-Final-Observer/tree/main/Com%20observer">./Com Observer/</a>. → Exemplo de uma aplicação simples usando o padrão observer no evento keyup da tag input. Chamando métodos para realizar a atualização das tags P da página.
 
-./Sem Observer/ → Desenvolvimento da mesma solução supracitada, porém sem utilizar o padrão Observer para comparar a diferença.
+<a href="https://github.com/GabrielCosta-Abap/ES2-Final-Observer/tree/main/Sem%20observer"> → Desenvolvimento da mesma solução supracitada, porém sem utilizar o padrão Observer para comparar a diferença.
